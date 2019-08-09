@@ -1,0 +1,4 @@
+# Wordpress
+
+USER: `admin`
+PW: `oh_du_hast_das_passwort_gefunden`
